@@ -1,0 +1,26 @@
+.car-img {
+    height: 200px;
+    object-fit: cover;
+}
+
+.navbar-brand {
+    font-weight: bold;
+    color: #ff4136;
+}
+
+h1, h2 {
+    color: #333;
+    border-bottom: 2px solid #ff4136;
+    padding-bottom: 10px;
+    margin-bottom: 20px;
+}
+
+.btn-primary {
+    background-color: #ff4136;
+    border-color: #ff4136;
+}
+
+.btn-primary:hover {
+    background-color: #e60000;
+    border-color: #e60000;
+}
